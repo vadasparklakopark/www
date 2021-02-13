@@ -3,12 +3,34 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2021-02-13T19:10:37+01:00</updated>
+    <updated>2021-02-13T19:55:16+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://www.vadasparklakopark.hu</id>
 
+    <entry>
+        <title>Elindult a honlapunk!</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://www.vadasparklakopark.hu/elindult-a-honlapunk/"/>
+        <id>https://www.vadasparklakopark.hu/elindult-a-honlapunk/</id>
+            <category term="Hírek"/>
+            <category term="Esemény"/>
+
+        <updated>2021-02-13T19:55:16+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A mai napon a honlap, email és twitter fiókunk elérhető!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A mai napon a honlap, email és twitter fiókunk elérhető!</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Rólunk</title>
         <author>
@@ -17,7 +39,7 @@
         <link href="https://www.vadasparklakopark.hu/rolunk/"/>
         <id>https://www.vadasparklakopark.hu/rolunk/</id>
 
-        <updated>2021-02-13T19:09:03+01:00</updated>
+        <updated>2021-02-13T19:48:29+01:00</updated>
             <summary>
                 <![CDATA[
                     Rólunk...
