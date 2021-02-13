@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Vadaspark Lakópark</title>
-    <link href="https://vadasparklakopark.hu/feed.xml" rel="self" />
-    <link href="https://vadasparklakopark.hu" />
+    <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
+    <link href="https://www.vadasparklakopark.hu" />
     <updated>2021-02-13T18:26:01+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
-    <id>https://vadasparklakopark.hu</id>
+    <id>https://www.vadasparklakopark.hu</id>
 
     <entry>
         <title>Rólunk</title>
         <author>
             <name>Admin</name>
         </author>
-        <link href="https://vadasparklakopark.hu/rolunk/"/>
-        <id>https://vadasparklakopark.hu/rolunk/</id>
+        <link href="https://www.vadasparklakopark.hu/rolunk/"/>
+        <id>https://www.vadasparklakopark.hu/rolunk/</id>
 
         <updated>2021-02-13T18:26:01+01:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>Admin</name>
         </author>
-        <link href="https://vadasparklakopark.hu/kapcsolat/"/>
-        <id>https://vadasparklakopark.hu/kapcsolat/</id>
+        <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
+        <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
 
         <updated>2021-02-13T18:25:51+01:00</updated>
             <summary>
@@ -54,8 +54,8 @@
         <author>
             <name>Admin</name>
         </author>
-        <link href="https://vadasparklakopark.hu/uedvoezoeljuek/"/>
-        <id>https://vadasparklakopark.hu/uedvoezoeljuek/</id>
+        <link href="https://www.vadasparklakopark.hu/uedvoezoeljuek/"/>
+        <id>https://www.vadasparklakopark.hu/uedvoezoeljuek/</id>
 
         <updated>2021-02-13T18:10:15+01:00</updated>
             <summary>

@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://vadasparklakopark.hu/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.vadasparklakopark.hu/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://vadasparklakopark.hu/</loc>
+<loc>https://www.vadasparklakopark.hu/</loc>
 </url>
 <url>
-<loc>https://vadasparklakopark.hu/kapcsolat/</loc>
+<loc>https://www.vadasparklakopark.hu/kapcsolat/</loc>
 <lastmod>2021-02-13T18:25:51+01:00</lastmod>
 </url>
 <url>
-<loc>https://vadasparklakopark.hu/rolunk/</loc>
+<loc>https://www.vadasparklakopark.hu/rolunk/</loc>
 <lastmod>2021-02-13T18:26:01+01:00</lastmod>
 </url>
 <url>
-<loc>https://vadasparklakopark.hu/uedvoezoeljuek/</loc>
+<loc>https://www.vadasparklakopark.hu/uedvoezoeljuek/</loc>
 <lastmod>2021-02-13T18:10:15+01:00</lastmod>
 </url>
 </urlset>

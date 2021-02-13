@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Vadaspark Lakópark",
     "description": "",
-    "home_page_url": "https://vadasparklakopark.hu",
-    "feed_url": "https://vadasparklakopark.hu/feed.json",
+    "home_page_url": "https://www.vadasparklakopark.hu",
+    "feed_url": "https://www.vadasparklakopark.hu/feed.json",
     "user_comment": "",
     "author": {
         "name": "Admin"
     },
     "items": [
         {
-            "id": "https://vadasparklakopark.hu/rolunk/",
-            "url": "https://vadasparklakopark.hu/rolunk/",
+            "id": "https://www.vadasparklakopark.hu/rolunk/",
+            "url": "https://www.vadasparklakopark.hu/rolunk/",
             "title": "Rólunk",
             "summary": "Rólunk...",
             "content_html": "<p>Rólunk...</p>",
@@ -24,8 +24,8 @@
             "date_modified": "2021-02-13T18:26:01+01:00"
         },
         {
-            "id": "https://vadasparklakopark.hu/kapcsolat/",
-            "url": "https://vadasparklakopark.hu/kapcsolat/",
+            "id": "https://www.vadasparklakopark.hu/kapcsolat/",
+            "url": "https://www.vadasparklakopark.hu/kapcsolat/",
             "title": "Kapcsolat",
             "summary": "Kapcsolat",
             "content_html": "<p>Kapcsolat</p>",
@@ -38,8 +38,8 @@
             "date_modified": "2021-02-13T18:25:51+01:00"
         },
         {
-            "id": "https://vadasparklakopark.hu/uedvoezoeljuek/",
-            "url": "https://vadasparklakopark.hu/uedvoezoeljuek/",
+            "id": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",
+            "url": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",
             "title": "Üdvözöljük",
             "summary": "Üdvözletem!",
             "content_html": "<p>Üdvözletem!</p>",
