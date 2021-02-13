@@ -27,15 +27,15 @@
             "id": "https://www.vadasparklakopark.hu/kapcsolat/",
             "url": "https://www.vadasparklakopark.hu/kapcsolat/",
             "title": "Kapcsolat",
-            "summary": "Ha kapcsolatba szeretne lépni a honlap fenntartóival, kérem írjon a következő email címre: info@vadasparklakopark.hu",
-            "content_html": "<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap fenntartóival, kérem írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:info@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">info@vadasparklakopark.hu</a></p>",
+            "summary": "Ha kapcsolatba szeretne lépni a honlap fenntartóival, kérem írjon a következő email címre: hello@vadasparklakopark.hu",
+            "content_html": "<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap fenntartóival, kérem írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:hello@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">hello@vadasparklakopark.hu</a></p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2021-02-13T18:10:47+01:00",
-            "date_modified": "2021-02-13T19:08:54+01:00"
+            "date_modified": "2021-02-13T19:10:37+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",
