@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2021-02-13T19:57:26+01:00</updated>
+    <updated>2021-02-26T23:09:46+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -19,7 +19,7 @@
             <category term="Hírek"/>
             <category term="Események"/>
 
-        <updated>2021-02-13T19:57:26+01:00</updated>
+        <updated>2021-02-26T23:07:21+01:00</updated>
             <summary>
                 <![CDATA[
                     A mai napon a honlap, email és twitter fiókunk elérhető!
@@ -27,7 +27,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A mai napon a honlap, email és twitter fiókunk elérhető!</p>
+                <p>A mai napon a honlap, <a href="mailto:hello@vadasparklakopark.hu">email</a> és <a href="https://twitter.com/vadasparklakopk" target="_blank" rel="noopener noreferrer">twitter</a> fiókunk elérhető!</p>
             ]]>
         </content>
     </entry>
@@ -39,15 +39,15 @@
         <link href="https://www.vadasparklakopark.hu/rolunk/"/>
         <id>https://www.vadasparklakopark.hu/rolunk/</id>
 
-        <updated>2021-02-13T19:48:29+01:00</updated>
+        <updated>2021-02-26T23:08:12+01:00</updated>
             <summary>
                 <![CDATA[
-                    Rólunk...
+                    A szegedi Vadaspark Lakópark lakóinak szánt honlap. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Rólunk...</p>
+                <p>A szegedi Vadaspark Lakópark lakóinak szánt honlap. </p>
             ]]>
         </content>
     </entry>
@@ -59,15 +59,15 @@
         <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
         <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
 
-        <updated>2021-02-13T19:10:37+01:00</updated>
+        <updated>2021-02-26T23:08:41+01:00</updated>
             <summary>
                 <![CDATA[
-                    Ha kapcsolatba szeretne lépni a honlap fenntartóival, kérem írjon a következő email címre: hello@vadasparklakopark.hu
+                    Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">Ha kapcsolatba szeretne lépni a honlap fenntartóival, kérem írjon a következő email címre:</p>
+                <p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre:</p>
 <p class="align-center"><a href="mailto:hello@vadasparklakopark.hu" target="_blank" rel="noopener noreferrer">hello@vadasparklakopark.hu</a></p>
             ]]>
         </content>
@@ -80,15 +80,16 @@
         <link href="https://www.vadasparklakopark.hu/uedvoezoeljuek/"/>
         <id>https://www.vadasparklakopark.hu/uedvoezoeljuek/</id>
 
-        <updated>2021-02-13T18:10:15+01:00</updated>
+        <updated>2021-02-26T23:09:46+01:00</updated>
             <summary>
                 <![CDATA[
-                    Üdvözletem!
+                    Üdvözletem! Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap még tartalmilag kiépítés alatt van.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Üdvözletem!</p>
+<p>Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap még tartalmilag kiépítés alatt van.</p>
             ]]>
         </content>
     </entry>
