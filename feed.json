@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
+            "url": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
+            "title": "Hópárduc utcai &quot;parkolási fórum&quot;",
+            "summary": "Február 27.-én lesz egy \"fórumot a parkolási lehetőségeink áttekintésér\" a Hópárduc utcai 46 beállós parkolójában. Kíváncsian várjuk, mi lesz belőle.",
+            "content_html": "<p>Február 27.-én lesz egy \"fórumot a parkolási lehetőségeink áttekintésér\" a Hópárduc utcai 46 beállós parkolójában. Kíváncsian várjuk, mi lesz belőle.</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-26T23:13:14+01:00",
+            "date_modified": "2021-02-26T23:13:14+01:00"
+        },
+        {
             "id": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "url": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "title": "Elindult a honlapunk!",
@@ -37,7 +51,7 @@
             "tags": [
             ],
             "date_published": "2021-02-13T18:11:16+01:00",
-            "date_modified": "2021-02-26T23:08:12+01:00"
+            "date_modified": "2021-02-26T23:10:57+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/kapcsolat/",

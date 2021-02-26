@@ -3,12 +3,32 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2021-02-26T23:09:46+01:00</updated>
+    <updated>2021-02-26T23:13:14+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://www.vadasparklakopark.hu</id>
 
+    <entry>
+        <title>Hópárduc utcai &quot;parkolási fórum&quot;</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/"/>
+        <id>https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/</id>
+
+        <updated>2021-02-26T23:13:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Február 27.-én lesz egy "fórumot a parkolási lehetőségeink áttekintésér" a Hópárduc utcai 46 beállós parkolójában. Kíváncsian várjuk, mi lesz belőle.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Február 27.-én lesz egy "fórumot a parkolási lehetőségeink áttekintésér" a Hópárduc utcai 46 beállós parkolójában. Kíváncsian várjuk, mi lesz belőle.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Elindult a honlapunk!</title>
         <author>
@@ -39,7 +59,7 @@
         <link href="https://www.vadasparklakopark.hu/rolunk/"/>
         <id>https://www.vadasparklakopark.hu/rolunk/</id>
 
-        <updated>2021-02-26T23:08:12+01:00</updated>
+        <updated>2021-02-26T23:10:57+01:00</updated>
             <summary>
                 <![CDATA[
                     A szegedi Vadaspark Lakópark lakóinak szánt honlap. 
