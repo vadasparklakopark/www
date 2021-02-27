@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2021-02-26T23:32:44+01:00</updated>
+    <updated>2021-02-27T12:59:52+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -60,15 +60,15 @@
         <link href="https://www.vadasparklakopark.hu/rolunk/"/>
         <id>https://www.vadasparklakopark.hu/rolunk/</id>
 
-        <updated>2021-02-26T23:32:44+01:00</updated>
+        <updated>2021-02-27T12:59:52+01:00</updated>
             <summary>
                 <![CDATA[
-                    A szegedi Vadaspark Lakópark lakóinak szánt honlap, ahol mindenki egyenrangúan 
+                    A szegedi Vadaspark Lakópark lakóinak szánt honlap.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A szegedi Vadaspark Lakópark lakóinak szánt honlap, ahol mindenki egyenrangúan </p>
+                <p>A szegedi Vadaspark Lakópark lakóinak szánt honlap.</p>
             ]]>
         </content>
     </entry>
