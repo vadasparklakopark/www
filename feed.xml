@@ -3,12 +3,32 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2021-02-27T12:59:52+01:00</updated>
+    <updated>2022-01-15T18:01:32+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://www.vadasparklakopark.hu</id>
 
+    <entry>
+        <title>Hópárduc utca parkoló</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/"/>
+        <id>https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/</id>
+
+        <updated>2022-01-15T18:01:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Még eddig semmi.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Még eddig semmi.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Hópárduc utcai &quot;parkolási fórum&quot;</title>
         <author>
@@ -60,7 +80,7 @@
         <link href="https://www.vadasparklakopark.hu/rolunk/"/>
         <id>https://www.vadasparklakopark.hu/rolunk/</id>
 
-        <updated>2021-02-27T12:59:52+01:00</updated>
+        <updated>2021-02-27T13:24:31+01:00</updated>
             <summary>
                 <![CDATA[
                     A szegedi Vadaspark Lakópark lakóinak szánt honlap.
@@ -80,16 +100,18 @@
         <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
         <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
 
-        <updated>2021-02-26T23:08:41+01:00</updated>
+        <updated>2021-02-27T13:24:50+01:00</updated>
             <summary>
                 <![CDATA[
-                    Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu
+                    Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu Továbbá, jelen vagyunk itt is: Twitter, Instagram, Discord. 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre:</p>
 <p class="align-center"><a href="mailto:hello@vadasparklakopark.hu" target="_blank" rel="noopener noreferrer">hello@vadasparklakopark.hu</a></p>
+<p>Továbbá, jelen vagyunk itt is:  <a href="https://twitter.com/vadasparklakopk" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.instagram.com/vadasparklakopark/" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://discord.gg/epzAMjFS" target="_blank" rel="noopener noreferrer">Discord.</a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
@@ -101,7 +123,7 @@
         <link href="https://www.vadasparklakopark.hu/uedvoezoeljuek/"/>
         <id>https://www.vadasparklakopark.hu/uedvoezoeljuek/</id>
 
-        <updated>2021-02-26T23:09:46+01:00</updated>
+        <updated>2021-02-27T13:15:17+01:00</updated>
             <summary>
                 <![CDATA[
                     Üdvözletem! Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap még tartalmilag kiépítés alatt van.

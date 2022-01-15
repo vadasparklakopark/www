@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/",
+            "url": "https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/",
+            "title": "Hópárduc utca parkoló",
+            "summary": "Még eddig semmi.",
+            "content_html": "<p>Még eddig semmi.</p>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-15T18:01:32+01:00",
+            "date_modified": "2022-01-15T18:01:32+01:00"
+        },
+        {
             "id": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
             "url": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
             "title": "Hópárduc utcai &quot;parkolási fórum&quot;",
@@ -52,21 +66,21 @@
             "tags": [
             ],
             "date_published": "2021-02-13T18:11:16+01:00",
-            "date_modified": "2021-02-27T12:59:52+01:00"
+            "date_modified": "2021-02-27T13:24:31+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/kapcsolat/",
             "url": "https://www.vadasparklakopark.hu/kapcsolat/",
             "title": "Kapcsolat",
-            "summary": "Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu",
-            "content_html": "<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:hello@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">hello@vadasparklakopark.hu</a></p>",
+            "summary": "Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu Továbbá, jelen vagyunk itt is: Twitter, Instagram, Discord. ",
+            "content_html": "<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:hello@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">hello@vadasparklakopark.hu</a></p>\n<p>Továbbá, jelen vagyunk itt is:  <a href=\"https://twitter.com/vadasparklakopk\" target=\"_blank\" rel=\"noopener noreferrer\">Twitter</a>, <a href=\"https://www.instagram.com/vadasparklakopark/\" target=\"_blank\" rel=\"noopener noreferrer\">Instagram</a>, <a href=\"https://discord.gg/epzAMjFS\" target=\"_blank\" rel=\"noopener noreferrer\">Discord.</a></p>\n<p> </p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2021-02-13T18:10:47+01:00",
-            "date_modified": "2021-02-26T23:08:41+01:00"
+            "date_modified": "2021-02-27T13:24:50+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",
@@ -80,7 +94,7 @@
             "tags": [
             ],
             "date_published": "2021-02-13T18:09:49+01:00",
-            "date_modified": "2021-02-26T23:09:46+01:00"
+            "date_modified": "2021-02-27T13:15:17+01:00"
         }
     ]
 }
