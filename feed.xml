@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2022-01-15T18:03:31+01:00</updated>
+    <updated>2022-01-15T18:07:37+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -100,17 +100,16 @@
         <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
         <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
 
-        <updated>2021-02-27T13:24:50+01:00</updated>
+        <updated>2022-01-15T18:07:37+01:00</updated>
             <summary>
                 <![CDATA[
-                    Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu Továbbá, jelen vagyunk itt is: Twitter, Instagram, Discord. 
+                    Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre:</p>
 <p class="align-center"><a href="mailto:hello@vadasparklakopark.hu" target="_blank" rel="noopener noreferrer">hello@vadasparklakopark.hu</a></p>
-<p>Továbbá, jelen vagyunk itt is:  <a href="https://twitter.com/vadasparklakopk" target="_blank" rel="noopener noreferrer">Twitter</a>, <a href="https://www.instagram.com/vadasparklakopark/" target="_blank" rel="noopener noreferrer">Instagram</a>, <a href="https://discord.gg/epzAMjFS" target="_blank" rel="noopener noreferrer">Discord.</a></p>
 <p> </p>
             ]]>
         </content>
