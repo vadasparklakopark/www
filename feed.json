@@ -19,9 +19,11 @@
                 "name": "Admin"
             },
             "tags": [
+                   "Hírek",
+                   "Események"
             ],
             "date_published": "2022-01-15T18:01:32+01:00",
-            "date_modified": "2022-01-15T18:03:31+01:00"
+            "date_modified": "2022-01-15T21:12:40+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
