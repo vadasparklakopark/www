@@ -3,29 +3,29 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2022-01-15T18:01:32+01:00</updated>
+    <updated>2022-01-15T18:03:31+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://www.vadasparklakopark.hu</id>
 
     <entry>
-        <title>Hópárduc utca parkoló</title>
+        <title>Hópárduc utcai parkoló</title>
         <author>
             <name>Admin</name>
         </author>
         <link href="https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/"/>
         <id>https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/</id>
 
-        <updated>2022-01-15T18:01:32+01:00</updated>
+        <updated>2022-01-15T18:03:31+01:00</updated>
             <summary>
                 <![CDATA[
-                    Még eddig semmi.
+                    A 46 férőhelyes parkoló, mely címe Hópárduc utca 12.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Még eddig semmi.</p>
+                <p>A 46 férőhelyes parkoló, mely címe Hópárduc utca 12.</p>
             ]]>
         </content>
     </entry>
