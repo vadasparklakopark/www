@@ -13,8 +13,8 @@
             "id": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "url": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "title": "Elindult a honlapunk!",
-            "summary": "Él a honlap, de a levelezősi lista, email és twitter fiókunk is elérhető! Nemsokára a Discord szerver is...",
-            "content_html": "<p>Él a honlap, de a levelezősi lista, <a href=\"mailto:hello@vadasparklakopark.hu\">email</a> és <a href=\"https://twitter.com/vadasparklakopk\" target=\"_blank\" rel=\"noopener noreferrer\">twitter</a> fiókunk is elérhető! Nemsokára a Discord szerver is...</p>",
+            "summary": "Él a honlap, de a levelezői lista, email és twitter fiókunk is elérhető! Szükség esetén lehet Discord szerverünk is...",
+            "content_html": "<p>Él a honlap, de a levelezői lista, email és twitter fiókunk is elérhető! Szükség esetén lehet Discord szerverünk is...</p>",
             "author": {
                 "name": "Admin"
             },
@@ -23,7 +23,7 @@
                    "Események"
             ],
             "date_published": "2021-02-13T19:55:16+01:00",
-            "date_modified": "2022-03-11T19:28:59+01:00"
+            "date_modified": "2022-03-11T19:31:25+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/rolunk/",
