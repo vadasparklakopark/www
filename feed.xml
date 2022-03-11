@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2022-03-11T19:37:57+01:00</updated>
+    <updated>2022-03-11T19:44:53+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -59,18 +59,21 @@
         <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
         <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
 
-        <updated>2022-03-11T19:27:33+01:00</updated>
+        <updated>2022-03-11T19:44:53+01:00</updated>
             <summary>
                 <![CDATA[
-                    Általános célú levelezői lista: vadasparklakopark@googlegroups.com Discord szerver: (lesz) Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre: hello@vadasparklakopark.hu 
+                    Általános célú levelezői lista: vadasparklakopark@googlegroups.com Twitter: https://twitter.com/vadasparklakopk Instagram: https://www.instagram.com/vadasparklakopark/ Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre: hello@vadasparklakopark.hu 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p class="align-center">Általános célú levelezői lista:</p>
 <p class="align-center"><a href="mailto:vadasparklakopark@googlegroups.com" target="_blank" rel="noopener noreferrer">vadasparklakopark@googlegroups.com</a></p>
-<p class="align-center">Discord szerver:</p>
-<p class="align-center">(lesz)</p>
+<p class="align-center">Twitter:</p>
+<p class="align-center"><a href="https://twitter.com/vadasparklakopk" target="_blank" rel="noopener noreferrer">https://twitter.com/vadasparklakopk</a></p>
+<p class="align-center">Instagram:</p>
+<p class="align-center"><a href="https://www.instagram.com/vadasparklakopark/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/vadasparklakopark/</a></p>
+<p class="align-center"> </p>
 <hr>
 <p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre:</p>
 <p class="align-center"><a href="mailto:hello@vadasparklakopark.hu" target="_blank" rel="noopener noreferrer">hello@vadasparklakopark.hu</a></p>
