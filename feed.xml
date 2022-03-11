@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2022-01-15T21:12:40+01:00</updated>
+    <updated>2022-03-11T17:41:54+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -102,15 +102,17 @@
         <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
         <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
 
-        <updated>2022-01-15T18:07:37+01:00</updated>
+        <updated>2022-03-11T17:41:54+01:00</updated>
             <summary>
                 <![CDATA[
-                    Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu 
+                    Általános célú levelezői lista: vadasparklakopark@googlegroups.com Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre:</p>
+                <p class="align-center">Általános célú levelezői lista:</p>
+<p class="align-center"><a href="mailto:vadasparklakopark@googlegroups.com" target="_blank" rel="noopener noreferrer">vadasparklakopark@googlegroups.com</a></p>
+<p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, <br>kérem írjon a következő email címre:</p>
 <p class="align-center"><a href="mailto:hello@vadasparklakopark.hu" target="_blank" rel="noopener noreferrer">hello@vadasparklakopark.hu</a></p>
 <p> </p>
             ]]>
