@@ -10,42 +10,11 @@
     },
     "items": [
         {
-            "id": "https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/",
-            "url": "https://www.vadasparklakopark.hu/hoparduc-utca-parkolo/",
-            "title": "Hópárduc utcai parkoló",
-            "summary": "A 46 férőhelyes parkoló, mely címe Hópárduc utca 12.",
-            "content_html": "<p>A 46 férőhelyes parkoló, mely címe Hópárduc utca 12.</p>",
-            "author": {
-                "name": "Admin"
-            },
-            "tags": [
-                   "Hírek",
-                   "Események"
-            ],
-            "date_published": "2022-01-15T18:01:32+01:00",
-            "date_modified": "2022-01-15T21:12:40+01:00"
-        },
-        {
-            "id": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
-            "url": "https://www.vadasparklakopark.hu/hoparduc-utcai-parkolasi-forum/",
-            "title": "Hópárduc utcai &quot;parkolási fórum&quot;",
-            "summary": "Február 27.-én lesz egy \"fórum a parkolási lehetőségeink áttekintésére\" a Hópárduc utcai 46 beállós parkolójában. Kíváncsian várjuk, mi lesz belőle.",
-            "content_html": "<p>Február 27.-én lesz egy \"fórum a parkolási lehetőségeink áttekintésére\" a Hópárduc utcai 46 beállós parkolójában. Kíváncsian várjuk, mi lesz belőle.</p>",
-            "author": {
-                "name": "Admin"
-            },
-            "tags": [
-                   "Események"
-            ],
-            "date_published": "2021-02-26T23:13:14+01:00",
-            "date_modified": "2021-02-26T23:17:01+01:00"
-        },
-        {
             "id": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "url": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "title": "Elindult a honlapunk!",
-            "summary": "A mai napon a honlap, email és twitter fiókunk elérhető!",
-            "content_html": "<p>A mai napon a honlap, <a href=\"mailto:hello@vadasparklakopark.hu\">email</a> és <a href=\"https://twitter.com/vadasparklakopk\" target=\"_blank\" rel=\"noopener noreferrer\">twitter</a> fiókunk elérhető!</p>",
+            "summary": "Él a honlap, de a levelezősi lista, email és twitter fiókunk is elérhető! Nemsokára a Discord szerver is...",
+            "content_html": "<p>Él a honlap, de a levelezősi lista, <a href=\"mailto:hello@vadasparklakopark.hu\">email</a> és <a href=\"https://twitter.com/vadasparklakopk\" target=\"_blank\" rel=\"noopener noreferrer\">twitter</a> fiókunk is elérhető! Nemsokára a Discord szerver is...</p>",
             "author": {
                 "name": "Admin"
             },
@@ -54,7 +23,7 @@
                    "Események"
             ],
             "date_published": "2021-02-13T19:55:16+01:00",
-            "date_modified": "2021-02-26T23:07:21+01:00"
+            "date_modified": "2022-03-11T19:28:59+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/rolunk/",
@@ -68,35 +37,35 @@
             "tags": [
             ],
             "date_published": "2021-02-13T18:11:16+01:00",
-            "date_modified": "2021-02-27T13:24:31+01:00"
+            "date_modified": "2022-03-11T19:13:21+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/kapcsolat/",
             "url": "https://www.vadasparklakopark.hu/kapcsolat/",
             "title": "Kapcsolat",
-            "summary": "Általános célú levelezői lista: vadasparklakopark@googlegroups.com Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, kérem írjon a következő email címre: hello@vadasparklakopark.hu ",
-            "content_html": "<p class=\"align-center\">Általános célú levelezői lista:</p>\n<p class=\"align-center\"><a href=\"mailto:vadasparklakopark@googlegroups.com\" target=\"_blank\" rel=\"noopener noreferrer\">vadasparklakopark@googlegroups.com</a></p>\n<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, <br>kérem írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:hello@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">hello@vadasparklakopark.hu</a></p>\n<p> </p>",
+            "summary": "Általános célú levelezői lista: vadasparklakopark@googlegroups.com Discord szerver: (lesz) Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre: hello@vadasparklakopark.hu ",
+            "content_html": "<p class=\"align-center\">Általános célú levelezői lista:</p>\n<p class=\"align-center\"><a href=\"mailto:vadasparklakopark@googlegroups.com\" target=\"_blank\" rel=\"noopener noreferrer\">vadasparklakopark@googlegroups.com</a></p>\n<p class=\"align-center\">Discord szerver:</p>\n<p class=\"align-center\">(lesz)</p>\n<hr>\n<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:hello@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">hello@vadasparklakopark.hu</a></p>\n<p> </p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2021-02-13T18:10:47+01:00",
-            "date_modified": "2022-03-11T17:41:54+01:00"
+            "date_modified": "2022-03-11T19:27:33+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",
             "url": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",
             "title": "Üdvözöljük",
-            "summary": "Üdvözletem! Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap még tartalmilag kiépítés alatt van.",
-            "content_html": "<p>Üdvözletem!</p>\n<p>Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap még tartalmilag kiépítés alatt van.</p>",
+            "summary": "Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap jelenleg még tartalmilag kiépítés alatt van.",
+            "content_html": "<p>Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap jelenleg még tartalmilag kiépítés alatt van.</p>",
             "author": {
                 "name": "Admin"
             },
             "tags": [
             ],
             "date_published": "2021-02-13T18:09:49+01:00",
-            "date_modified": "2021-02-27T13:15:17+01:00"
+            "date_modified": "2022-03-11T19:14:07+01:00"
         }
     ]
 }
