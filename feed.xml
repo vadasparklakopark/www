@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2022-03-11T19:31:25+01:00</updated>
+    <updated>2022-03-11T19:33:04+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -19,15 +19,17 @@
             <category term="Hírek"/>
             <category term="Események"/>
 
-        <updated>2022-03-11T19:31:25+01:00</updated>
+        <updated>2022-03-11T19:33:04+01:00</updated>
             <summary>
                 <![CDATA[
-                    Él a honlap, de a levelezői lista, email és twitter fiókunk is elérhető! Szükség esetén lehet Discord szerverünk is...
+                    Él a honlap, de a levelezői lista, email és twitter fiók is elérhető! Szükség esetén lehet Discord szerverünk is... A további ötleteket a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Él a honlap, de a levelezői lista, email és twitter fiókunk is elérhető! Szükség esetén lehet Discord szerverünk is...</p>
+                <p>Él a honlap, de a levelezői lista, email és twitter fiók is elérhető!</p>
+<p>Szükség esetén lehet Discord szerverünk is...</p>
+<p>A további ötleteket a kommentekben várjuk!</p>
             ]]>
         </content>
     </entry>
