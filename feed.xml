@@ -3,7 +3,7 @@
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2025-03-23T23:42:21+01:00</updated>
+    <updated>2025-03-23T23:44:48+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://www.vadasparklakopark.hu/jofej-szomszedok/"/>
         <id>https://www.vadasparklakopark.hu/jofej-szomszedok/</id>
+            <category term="Hírek"/>
 
         <updated>2025-03-23T23:40:43+01:00</updated>
             <summary>
