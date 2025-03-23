@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://www.vadasparklakopark.hu/elnoki-level/",
+            "url": "https://www.vadasparklakopark.hu/elnoki-level/",
+            "title": "Elnöki levél",
+            "summary": "A minap a kutyámmal sétálva a következő (eléggé gyűrött) levelet fújta a szél a kezembe. Nincs hozzáfűzni valóm, ezért olvassátok ti is el&hellip;",
+            "content_html": "<p>A minap a kutyámmal sétálva a következő (eléggé gyűrött) levelet fújta a szél a kezembe. Nincs hozzáfűzni valóm, ezért olvassátok ti is el azon teljes terjedelmében (nem tudom ki volt a fogadó, de a levél eléggé gyűrött volt).</p>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.vadasparklakopark.hu/media/posts/7/elnoki-level.jpg\" alt=\"\" width=\"1240\" height=\"1753\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-xs.jpg 300w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-sm.jpg 480w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-md.jpg 768w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-lg.jpg 1024w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-xl.jpg 1360w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-2xl.jpg 1600w\"></figure>",
+            "author": {
+                "name": "Admin"
+            },
+            "tags": [
+                   "Hírek"
+            ],
+            "date_published": "2025-03-23T22:22:54+01:00",
+            "date_modified": "2025-03-23T22:23:29+01:00"
+        },
+        {
             "id": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "url": "https://www.vadasparklakopark.hu/elindult-a-honlapunk/",
             "title": "Elindult a honlapunk!",
@@ -24,34 +39,6 @@
             ],
             "date_published": "2021-02-13T19:55:16+01:00",
             "date_modified": "2022-03-11T19:37:57+01:00"
-        },
-        {
-            "id": "https://www.vadasparklakopark.hu/rolunk/",
-            "url": "https://www.vadasparklakopark.hu/rolunk/",
-            "title": "Rólunk",
-            "summary": "A szegedi Vadaspark Lakópark lakóinak szánt honlap.",
-            "content_html": "<p>A szegedi Vadaspark Lakópark lakóinak szánt honlap.</p>",
-            "author": {
-                "name": "Admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-13T18:11:16+01:00",
-            "date_modified": "2022-03-11T19:13:21+01:00"
-        },
-        {
-            "id": "https://www.vadasparklakopark.hu/kapcsolat/",
-            "url": "https://www.vadasparklakopark.hu/kapcsolat/",
-            "title": "Kapcsolat",
-            "summary": "Általános célú levelezői lista: vadasparklakopark@googlegroups.com Twitter: https://twitter.com/vadasparklakopk Instagram: https://www.instagram.com/vadasparklakopark/ Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre: hello@vadasparklakopark.hu ",
-            "content_html": "<p class=\"align-center\">Általános célú levelezői lista:<br><a href=\"mailto:vadasparklakopark@googlegroups.com\" target=\"_blank\" rel=\"noopener noreferrer\">vadasparklakopark@googlegroups.com</a></p>\n<p class=\"align-center\">Twitter:<br><a href=\"https://twitter.com/vadasparklakopk\" target=\"_blank\" rel=\"noopener noreferrer\">https://twitter.com/vadasparklakopk</a></p>\n<p class=\"align-center\">Instagram:<br><a href=\"https://www.instagram.com/vadasparklakopark/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.instagram.com/vadasparklakopark/</a></p>\n<p class=\"align-center\"> </p>\n<hr>\n<p class=\"align-center\">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre:</p>\n<p class=\"align-center\"><a href=\"mailto:hello@vadasparklakopark.hu\" target=\"_blank\" rel=\"noopener noreferrer\">hello@vadasparklakopark.hu</a></p>\n<p> </p>",
-            "author": {
-                "name": "Admin"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-02-13T18:10:47+01:00",
-            "date_modified": "2022-03-11T22:51:52+01:00"
         },
         {
             "id": "https://www.vadasparklakopark.hu/uedvoezoeljuek/",

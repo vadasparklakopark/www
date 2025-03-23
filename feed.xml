@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Vadaspark Lakópark</title>
     <link href="https://www.vadasparklakopark.hu/feed.xml" rel="self" />
     <link href="https://www.vadasparklakopark.hu" />
-    <updated>2022-03-11T22:51:52+01:00</updated>
+    <updated>2025-03-23T22:23:29+01:00</updated>
     <author>
         <name>Admin</name>
     </author>
     <id>https://www.vadasparklakopark.hu</id>
 
+    <entry>
+        <title>Elnöki levél</title>
+        <author>
+            <name>Admin</name>
+        </author>
+        <link href="https://www.vadasparklakopark.hu/elnoki-level/"/>
+        <id>https://www.vadasparklakopark.hu/elnoki-level/</id>
+            <category term="Hírek"/>
+
+        <updated>2025-03-23T22:22:54+01:00</updated>
+            <summary>
+                <![CDATA[
+                    A minap a kutyámmal sétálva a következő (eléggé gyűrött) levelet fújta a szél a kezembe. Nincs hozzáfűzni valóm, ezért olvassátok ti is el&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A minap a kutyámmal sétálva a következő (eléggé gyűrött) levelet fújta a szél a kezembe. Nincs hozzáfűzni valóm, ezért olvassátok ti is el azon teljes terjedelmében (nem tudom ki volt a fogadó, de a levél eléggé gyűrött volt).</p>
+<figure class="post__image post__image--center"><img loading="lazy"  src="https://www.vadasparklakopark.hu/media/posts/7/elnoki-level.jpg" alt="" width="1240" height="1753" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-xs.jpg 300w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-sm.jpg 480w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-md.jpg 768w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-lg.jpg 1024w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-xl.jpg 1360w ,https://www.vadasparklakopark.hu/media/posts/7/responsive/elnoki-level-2xl.jpg 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Elindult a honlapunk!</title>
         <author>
@@ -19,7 +41,7 @@
             <category term="Hírek"/>
             <category term="Események"/>
 
-        <updated>2022-03-11T19:37:57+01:00</updated>
+        <updated>2021-02-13T19:55:16+01:00</updated>
             <summary>
                 <![CDATA[
                     Él a honlap, de a levelezői lista, email, Instagram és twitter fiók is! Szükség esetén indítunk egy Discord szervert is. A további ötleteket&hellip;
@@ -32,53 +54,6 @@
         </content>
     </entry>
     <entry>
-        <title>Rólunk</title>
-        <author>
-            <name>Admin</name>
-        </author>
-        <link href="https://www.vadasparklakopark.hu/rolunk/"/>
-        <id>https://www.vadasparklakopark.hu/rolunk/</id>
-
-        <updated>2022-03-11T19:13:21+01:00</updated>
-            <summary>
-                <![CDATA[
-                    A szegedi Vadaspark Lakópark lakóinak szánt honlap.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>A szegedi Vadaspark Lakópark lakóinak szánt honlap.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Kapcsolat</title>
-        <author>
-            <name>Admin</name>
-        </author>
-        <link href="https://www.vadasparklakopark.hu/kapcsolat/"/>
-        <id>https://www.vadasparklakopark.hu/kapcsolat/</id>
-
-        <updated>2022-03-11T22:51:52+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Általános célú levelezői lista: vadasparklakopark@googlegroups.com Twitter: https://twitter.com/vadasparklakopk Instagram: https://www.instagram.com/vadasparklakopark/ Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre: hello@vadasparklakopark.hu 
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p class="align-center">Általános célú levelezői lista:<br><a href="mailto:vadasparklakopark@googlegroups.com" target="_blank" rel="noopener noreferrer">vadasparklakopark@googlegroups.com</a></p>
-<p class="align-center">Twitter:<br><a href="https://twitter.com/vadasparklakopk" target="_blank" rel="noopener noreferrer">https://twitter.com/vadasparklakopk</a></p>
-<p class="align-center">Instagram:<br><a href="https://www.instagram.com/vadasparklakopark/" target="_blank" rel="noopener noreferrer">https://www.instagram.com/vadasparklakopark/</a></p>
-<p class="align-center"> </p>
-<hr>
-<p class="align-center">Ha kapcsolatba szeretne lépni a honlap üzemeltetőivel, írjon a következő email címre:</p>
-<p class="align-center"><a href="mailto:hello@vadasparklakopark.hu" target="_blank" rel="noopener noreferrer">hello@vadasparklakopark.hu</a></p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
         <title>Üdvözöljük</title>
         <author>
             <name>Admin</name>
@@ -86,7 +61,7 @@
         <link href="https://www.vadasparklakopark.hu/uedvoezoeljuek/"/>
         <id>https://www.vadasparklakopark.hu/uedvoezoeljuek/</id>
 
-        <updated>2022-03-11T19:14:07+01:00</updated>
+        <updated>2021-02-13T18:09:49+01:00</updated>
             <summary>
                 <![CDATA[
                     Üdvözöljük a szegedi Vadaspark Lakópark honlapján. A honlap jelenleg még tartalmilag kiépítés alatt van.
